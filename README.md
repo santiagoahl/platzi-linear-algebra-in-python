@@ -30,27 +30,22 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Basic Linear Algebra Concepts in Python:
+	- [Basic operations](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/1_basic_operations.ipynb)
+	- [Matrix operations](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/2_matrix_operations.ipynb)
+	- [Linear equation systems](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/3_linear_equation_systems.ipynb)
+	- [Norms](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/4_norms.ipynb)
+	- [Special matrices: Transpose, Inverse](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/5_special_matrices.ipynb)
+	- [Determinant and Trace](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/6_determinant_and_trace.ipynb)
+* Applied Linear Algebra in Machine Learning:
+	- [Visualizing matrices as linear transformations](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/7_linear_transformations.ipynb)
+	- [Matrix factorization: Diagonalization, SVD](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/8_matrix_factorization.ipynb)
+	- [SVD decomposition applied to images](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/9_SVD_for_images.ipynb)
+	- [Pseudo Inverse matrix](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/10_pseudo_inverse_matrix.ipynb)
+	- [PCA algorithm](https://github.com/santiagoahl/linear-algebra-in-python/blob/main/11_PCA.ipynb)
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
