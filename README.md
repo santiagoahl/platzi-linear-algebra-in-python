@@ -3,11 +3,11 @@
   <br>
   <a href="https://santiagoal.super.site/"><img src="https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/bagde-algebra-lineal-machine-learning-dc3c7317-aaca-4320-b327-2986e965715f.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  Linear algebra for python and machine learning
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">An overview of the python implementation of the main <a href="http://electron.atom.io" target="_blank">Linear algebra concepts</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
