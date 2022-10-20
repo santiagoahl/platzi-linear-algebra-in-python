@@ -10,17 +10,11 @@
 <h4 align="center">An overview of the python implementation of the main Linear algebra concepts</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href='https://numpy.org/' target="_blank"><img alt='numpy' src='https://img.shields.io/badge/Numpy-100000?style=for-the-badge&logo=numpy&logoColor=2781FF&labelColor=B1DCFF&color=B1DCFF'/></a>
+  <a href='https://pypi.org/project/Pillow/' target="_blank"><img alt='Pil' src='https://img.shields.io/badge/pillow-100000?style=for-the-badge&logo=Pil&logoColor=white&labelColor=000000&color=CDC6C6'/></a>
+  <a href='https://matplotlib.org/' target="_blank"><img alt='matplotlib' src='https://img.shields.io/badge/matplotlib-100000?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=000000&color=FF761A'/></a>
+  <a href='https://pandas.pydata.org/' target="_blank"><img alt='pandas' src='https://img.shields.io/badge/pandas-100000?style=for-the-badge&logo=pandas&logoColor=2D0090&labelColor=9D7BEA&color=D2C0FA'/></a>
+  
 </p>
 
 <p align="center">
