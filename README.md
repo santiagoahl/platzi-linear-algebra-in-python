@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://santiagoal.super.site/"><img src="https://static.platzi.com/cdn-cgi/image/width=1024,quality=50,format=auto/media/achievements/bagde-algebra-lineal-machine-learning-dc3c7317-aaca-4320-b327-2986e965715f.png" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
