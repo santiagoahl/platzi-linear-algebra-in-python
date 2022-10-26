@@ -82,6 +82,6 @@ MIT
 ---
 
 > [https://santiagoal.super.site/](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@santiagoahl]https://github.com/santiagoahl) &nbsp;&middot;&nbsp;
+> GitHub [@santiagoahl](https://github.com/santiagoahl) &nbsp;&middot;&nbsp;
 > Twitter [@sahumadaloz](https://twitter.com/sahumadaloz)
 
